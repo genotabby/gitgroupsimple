@@ -1,1 +1,3 @@
-i made this change - lakjin
+# gitgroupsimple 
+
+this is some text lak jin
