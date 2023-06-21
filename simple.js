@@ -4,3 +4,5 @@ function showTest() {
   console.log(test);
   console.log("test3");
 }
+
+showTest();
