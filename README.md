@@ -5,3 +5,10 @@ A group project to develop a Movie ticketing and Netflix social combined experie
 [Shawflix project github](https://github.com/rakuj1n/Shawflix)
 
 Visit [**Shawflix**](https://shawflix.onrender.com) to start social watching now!
+
+# Technologies Used
+
+HTML, CSS and Javascript
+React, Express, Node & MongoDB
+
+Libraries: mui, antd
