@@ -1,13 +1,3 @@
-# gitgroupsimple
+# Shawflix project
 
-## Wesley
-
-this is some text lak jin
-I made a change here
-changeWes
-
-## Wes Change 2
-
-change lakjin 
-change lakjin2
-cahnge lakjin3
+-[Shawflix project](https://github.com/rakuj1n/Shawflix)
